@@ -40,6 +40,21 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 
 ---
 
+## 📚 Currently Learning
+
+- 🤖 AI Driven Data Analyst – Entri App
+- 📊 Advanced Power BI
+- 🗄️ SQL for Data Analytics
+- 🐍 Python for Data Analysis
+- 📈 Microsoft Excel for Data Analytics
+- 📉 Data Visualization & Business Intelligence
+
+---
+
+## 📜 Certifications
+
+- Add your completed certifications here as you earn them.
+
 ## 📂 Featured Projects
 
 ### 🎬 Netflix Content Analysis
