@@ -42,7 +42,7 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 
 ## 📚 Currently Learning
 
-- 🤖 AI Driven Data Analyst – Entri App
+- 🤖 AI Driven Data Analytics – Entri App
 - 📊 Advanced Power BI
 - 🗄️ SQL for Data Analytics
 - 🐍 Python for Data Analysis
