@@ -60,7 +60,7 @@ https://github.com/shanmukhkoyya/netflix-content-analysis
 - SQL
 - Python
 - Excel
-- Salesforce Agentforce Specialist *(Add only if you earn it.)*
+- Salesforce Agentforce Specialist
 
 ---
 
