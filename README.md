@@ -51,9 +51,6 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 
 ---
 
-## 📜 Certifications
-
-- Add your completed certifications here as you earn them.
 
 ## 📂 Featured Projects
 
