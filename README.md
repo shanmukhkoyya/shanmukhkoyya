@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shanmukh Koyya
 
-## Aspiring Data Analyst | Power BI | SQL | Python | Excel | Business Intelligence
+## Aspiring Data Analyst | Power BI | SQL | Python | Excel | AI Driven Data Analytics Learner
 
 I'm an aspiring Data Analyst passionate about transforming raw data into meaningful business insights. I enjoy building interactive dashboards, performing data analysis, and solving real-world business problems using Power BI, SQL, Python, Excel, and DAX.
 
