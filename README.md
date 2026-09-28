@@ -87,13 +87,22 @@ Interactive Power BI analysis of employee productivity and workplace behavior.
 
 ---
 
-### ✅ Quality Control Defect Analysis
+### 🔄 Data Transformation & Data Modeling using Power BI
 
-**Power BI | DAX | Data Visualization**
+**Power BI | Power Query | Data Transformation | Data Modeling**
 
-Power BI dashboard focused on identifying **defect patterns, quality trends, production performance, and key quality-control metrics**.
+A focused Power BI project demonstrating the transformation of source data and preparation of a structured analytical model for reporting.
 
-🔗 [View Project](https://github.com/shanmukhkoyya/analytics-coding-challenge)
+**Key Work:**
+
+* Data transformation with Power Query
+* Data cleaning and preparation
+* Data type and structural handling
+* Data modeling concepts
+* Relationship-based analytical preparation
+* Power BI reporting workflow
+
+🔗 [View Project](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
 
 ---
 
