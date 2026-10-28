@@ -2,77 +2,113 @@
 
 **Aspiring Data Analyst | SQL · Excel · Power BI · Python**
 
-I’m learning analytics by working with datasets, cleaning them, asking practical questions, and checking whether the results support a conclusion. Most of my current project work is in SQL, Excel/Power Query, and Power BI/DAX. I’m building up my Python analysis skills alongside that work.
+I’m building my analytics skills through hands-on projects. I like taking a dataset from its raw state, checking whether it is reliable enough to use, exploring a practical question, and writing down what the results actually support.
 
-I’m interested in entry-level **Data Analyst and BI Analyst** opportunities.
+My strongest portfolio work so far is in **SQL, Excel/Power Query, and Power BI/DAX**. I’m also practising Python with NumPy, Pandas, and Jupyter Notebook. I’m looking for an entry-level **Data Analyst or BI Analyst** opportunity where I can keep learning and contribute careful, useful analysis.
 
-## Projects to explore
+---
 
-### 1. E-commerce Customer Churn Analysis
+## Selected projects
+
+I’ve picked these projects because each shows a different part of the analytics workflow. The results below come from the documented project datasets; they are not claims about an entire industry or live business performance.
+
+### 01 · E-commerce Customer Churn Analysis
 **MySQL · SQL · Data cleaning · KPI analysis**
 
-I used SQL to prepare customer data, calculate churn measures, compare customer groups, and add data-quality checks. The project report records 5,630 source records and 5,628 customers after the documented cleaning steps, with a calculated churn rate of 16.84%.
+I worked through a customer dataset using SQL: preparing fields, defining churn measures, comparing customer groups, and checking data quality after cleaning. The project documentation records 5,630 source rows and 5,628 remaining customer records, with a calculated churn rate of 16.84%.
 
-[Open the project and SQL analysis](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis)
+**What to look at:** the cleaning workflow, churn calculations, group comparisons, and validation queries.
 
-### 2. Netflix Content Analysis
+[Open the project and SQL analysis →](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis)
+
+### 02 · Netflix Content Analysis
 **Excel · Power Query · Power BI · DAX**
 
-A dashboard project exploring title type, genres, ratings, countries, release years, and audience metrics. The repository includes the Power BI file, cleaned data, a data-quality report, and supporting documentation. Findings describe the supplied dataset, not Netflix’s live catalogue.
+This project explores a supplied Netflix titles dataset across content type, genres, ratings, countries, release years, and audience measures. The repository includes the Power BI report, cleaned data, a data-quality workbook, and project documentation.
 
-[Open the project](https://github.com/shanmukhkoyya/netflix-content-analysis)
+**What to look at:** the data-preparation steps, model and measures, dashboard filters, and the interpretation of the supplied data. The findings describe this dataset—not Netflix’s live catalogue.
 
-### 3. Data Transformation & Data Modeling
+[Open the project →](https://github.com/shanmukhkoyya/netflix-content-analysis)
+
+### 03 · Data Transformation & Data Modeling
 **Power Query · Power BI · Data modeling**
 
-This project brings sales-related tables together, documents data preparation, and explores sales targets and profitability. The repository includes the PBIX file and supporting model and analysis notes.
+I used related sales tables to practise cleaning and preparing data, connecting tables, shaping analytical summaries, and examining sales targets and profitability.
 
-[Open the project](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
+**What to look at:** the Power Query workflow, model documentation, business calculations, and the distinction between planned dashboard layout and completed interactive report elements.
 
-### 4. Python Data Analysis: NumPy and Pandas
-**Python · NumPy · Pandas · Jupyter Notebook**
+[Open the project →](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
 
-A fundamentals assignment where I practise array operations, temperature statistics, Series indexing, DataFrame filtering, grouping, and data changes. I keep this as a small practice project rather than presenting it as a full business case.
+### 04 · Employee Productivity & Work Pattern Analysis
+**Power BI · DAX · Data visualization**
 
-[Open the notebook and project report](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas)
+A dashboard exercise using 200 project records to compare work patterns and productivity-related measures. The “Laziness Index” is defined for this project; it is not a validated measure of a real employee’s performance. The documentation also notes where the observed data does not support a strong conclusion.
 
-### 5. Survey Feedback Analyzer
+**What to look at:** the dashboard pages, metric definitions, comparisons, and the stated limitations.
+
+[Open the project →](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis)
+
+### 05 · Survey Feedback Analyzer
 **Python · Jupyter Notebook · Text cleaning**
 
-A smaller Python exercise that cleans feedback text and calculates summaries such as ratings, word counts, and keyword matches. It is part of my practice with core Python.
+A smaller Python project for practising core programming through feedback text cleanup, ratings, word counts, and keyword matching. It is a learning exercise, not a production sentiment-analysis system.
 
-[Open the notebook](https://github.com/shanmukhkoyya/survey-feedback-analyzer)
+**What to look at:** string handling, lists and dictionaries, user input, simple calculations, and notebook flow.
 
-## Tools I’m working with
+[Open the project →](https://github.com/shanmukhkoyya/survey-feedback-analyzer)
 
-| Area | Tools and techniques |
+### 06 · NumPy and Pandas Fundamentals
+**Python · NumPy · Pandas · Jupyter Notebook**
+
+This assignment helped me practise array operations, temperature statistics, Series indexing, conditional filtering, grouping, and DataFrame changes. I keep it as a fundamentals project rather than presenting it as a full business case.
+
+[Open the notebook and report →](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas)
+
+---
+
+## Tools and techniques
+
+| Area | What I’m using or practising |
 |---|---|
-| SQL | MySQL, joins, grouping, subqueries, window functions, data checks |
-| Spreadsheets | Excel, PivotTables, Power Query, data preparation |
-| Business intelligence | Power BI, DAX, data models, KPIs, interactive reports |
-| Python | Core Python, NumPy, Pandas, Jupyter Notebook — actively practising |
-| Workflow | Git, GitHub, project documentation |
+| SQL | MySQL, joins, aggregations, subqueries, window functions, data-quality checks |
+| Excel and preparation | Excel, PivotTables, Power Query, cleaning and transformation |
+| Business intelligence | Power BI, DAX, data modeling, KPIs, interactive reports |
+| Python | Core Python, NumPy, Pandas, Jupyter Notebook — actively developing |
+| Project workflow | Git, GitHub, README files, analysis notes, and reproducible steps |
 
-## How I approach an analysis
+I prefer to show a tool through a project rather than claim a skill without an example behind it.
 
-- **Check the data first.** Look for missing values, duplicates, inconsistent labels, and questionable records.
-- **Keep the question visible.** Choose queries, calculations, or visuals that help answer it.
-- **Write down the limits.** A pattern in a sample is not automatically proof of a cause or a wider business trend.
+## How I work through a data question
 
-I want to be able to explain how I reached a result, what assumptions I made, and what I would check next—not just show a dashboard.
+1. **Understand the fields.** Check what each column means, the expected data types, and what the dataset does not contain.
+2. **Check data quality.** Look for missing values, duplicates, inconsistent labels, and values that need investigation before analysis.
+3. **Choose the method for the question.** Use a query, calculation, summary, or visual that answers something specific.
+4. **Validate the result.** Recheck counts, calculations, filters, and assumptions before writing a finding.
+5. **Explain the limits.** A pattern in a small or supplied dataset is not automatically a cause, a forecast, or a wider business trend.
 
-## Current learning
+I want to be able to explain **why I used a method, how I checked the result, and what I would investigate next**—not just show a dashboard screenshot.
 
-I’m continuing to practise Python data analysis, stronger SQL, and how to turn dashboard findings into concise business recommendations. My [analytics coding challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge) is where I keep smaller exercises and multi-tool practice in one place.
+## Current learning focus
+
+- Getting more fluent with Python data analysis using Pandas and NumPy.
+- Strengthening SQL through joins, aggregations, subqueries, and window functions.
+- Making Power BI reports easier to navigate and their measures easier to explain.
+- Moving from tool-specific exercises toward end-to-end analysis with a clear question, checked data, findings, and practical recommendations.
+
+My [Analytics Coding Challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge) collects smaller exercises and multi-tool practice.
 
 ## Education and training
 
-- **B.Tech**, Electrical & Electronics Engineering
+- **B.Tech — Electrical & Electronics Engineering**
 - AI-Driven Data Analytics — Entri App
 - Salesforce Agentforce Specialist
 
-## Contact
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/shanmukh-koyya/)
-- [GitHub repositories](https://github.com/shanmukhkoyya?tab=repositories)
+- [All GitHub repositories](https://github.com/shanmukhkoyya?tab=repositories)
 - [Email](mailto:shanmukhkoyya1234@gmail.com)
+
+---
+
+*This profile reflects my current learning and project work. I’m continuing to improve the projects as I learn more, and I aim to keep the methods, results, and limitations visible in each repository.*
