@@ -2,11 +2,11 @@
 
 **Aspiring Data Analyst | SQL · Excel · Power BI · Python**
 
-I’m building my analytics skills by working through datasets, cleaning them, asking practical questions, and explaining what the results do—and do not—show. Most of my portfolio work is in SQL, Excel/Power Query, and Power BI/DAX. I’m adding Python-based analysis as I go.
+I’m learning analytics by working with datasets, cleaning them, asking practical questions, and checking whether the results support a conclusion. Most of my current project work is in SQL, Excel/Power Query, and Power BI/DAX. I’m building up my Python analysis skills alongside that work.
 
 I’m interested in entry-level **Data Analyst and BI Analyst** opportunities.
 
-## Projects I’d start with
+## Projects to explore
 
 ### 1. E-commerce Customer Churn Analysis
 **MySQL · SQL · Data cleaning · KPI analysis**
@@ -18,7 +18,7 @@ I used SQL to prepare customer data, calculate churn measures, compare customer 
 ### 2. Netflix Content Analysis
 **Excel · Power Query · Power BI · DAX**
 
-A dashboard project exploring title type, genres, ratings, countries, release years, and audience metrics. The repository includes the Power BI file, cleaned data, a data-quality report, and supporting project documentation. Findings describe the supplied dataset, not Netflix’s live catalogue.
+A dashboard project exploring title type, genres, ratings, countries, release years, and audience metrics. The repository includes the Power BI file, cleaned data, a data-quality report, and supporting documentation. Findings describe the supplied dataset, not Netflix’s live catalogue.
 
 [Open the project](https://github.com/shanmukhkoyya/netflix-content-analysis)
 
@@ -29,10 +29,17 @@ This project brings sales-related tables together, documents data preparation, a
 
 [Open the project](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
 
-### 4. Survey Feedback Analyzer
+### 4. Python Data Analysis: NumPy and Pandas
+**Python · NumPy · Pandas · Jupyter Notebook**
+
+A fundamentals assignment where I practise array operations, temperature statistics, Series indexing, DataFrame filtering, grouping, and data changes. I keep this as a small practice project rather than presenting it as a full business case.
+
+[Open the notebook and project report](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas)
+
+### 5. Survey Feedback Analyzer
 **Python · Jupyter Notebook · Text cleaning**
 
-A smaller Python exercise that cleans feedback text and calculates simple summaries such as ratings, word counts, and keyword matches. It’s part of my practice with core Python before moving further into Pandas.
+A smaller Python exercise that cleans feedback text and calculates summaries such as ratings, word counts, and keyword matches. It is part of my practice with core Python.
 
 [Open the notebook](https://github.com/shanmukhkoyya/survey-feedback-analyzer)
 
@@ -52,11 +59,11 @@ A smaller Python exercise that cleans feedback text and calculates simple summar
 - **Keep the question visible.** Choose queries, calculations, or visuals that help answer it.
 - **Write down the limits.** A pattern in a sample is not automatically proof of a cause or a wider business trend.
 
-That last point matters to me: I want to be able to explain how I reached a result, not just show a dashboard.
+I want to be able to explain how I reached a result, what assumptions I made, and what I would check next—not just show a dashboard.
 
 ## Current learning
 
-I’m continuing to practise Python data analysis, stronger SQL, and how to turn dashboard findings into concise business recommendations. My [analytics coding challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge) is where I keep smaller exercises and project work in one place.
+I’m continuing to practise Python data analysis, stronger SQL, and how to turn dashboard findings into concise business recommendations. My [analytics coding challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge) is where I keep smaller exercises and multi-tool practice in one place.
 
 ## Education and training
 
