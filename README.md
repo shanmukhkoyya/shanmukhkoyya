@@ -1,141 +1,71 @@
 # Shanmukh Koyya
 
-## Aspiring AI Data Analyst | SQL • Power BI • Excel • Python
+**Aspiring Data Analyst | SQL · Excel · Power BI · Python**
 
-I am an **Aspiring AI Data Analyst** focused on transforming raw data into meaningful business insights through **SQL, Excel, Power Query, Power BI, DAX, and Python**.
+I’m building my analytics skills by working through datasets, cleaning them, asking practical questions, and explaining what the results do—and do not—show. Most of my portfolio work is in SQL, Excel/Power Query, and Power BI/DAX. I’m adding Python-based analysis as I go.
 
-I build practical analytics projects covering **data cleaning, transformation, exploratory analysis, data modeling, KPI development, dashboarding, and business problem-solving**.
+I’m interested in entry-level **Data Analyst and BI Analyst** opportunities.
 
-🎯 **Actively seeking Data Analyst / BI Analyst opportunities**
+## Projects I’d start with
 
----
+### 1. E-commerce Customer Churn Analysis
+**MySQL · SQL · Data cleaning · KPI analysis**
 
-## 🛠️ Skills
+I used SQL to prepare customer data, calculate churn measures, compare customer groups, and add data-quality checks. The project report records 5,630 source records and 5,628 customers after the documented cleaning steps, with a calculated churn rate of 16.84%.
 
-### Data Analytics
-- Excel
-- Power Query
-- Data Cleaning & Transformation
-- Exploratory Data Analysis
-- Business Analysis
+[Open the project and SQL analysis](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis)
 
-### Business Intelligence
-- Power BI
-- DAX
-- Data Modeling
-- KPI Development
-- Interactive Dashboards
-- Data Visualization
+### 2. Netflix Content Analysis
+**Excel · Power Query · Power BI · DAX**
 
-### SQL & Databases
-- SQL
-- MySQL
-- Joins
-- Subqueries
-- Aggregations
-- GROUP BY / HAVING
-- Window Functions
+A dashboard project exploring title type, genres, ratings, countries, release years, and audience metrics. The repository includes the Power BI file, cleaned data, a data-quality report, and supporting project documentation. Findings describe the supplied dataset, not Netflix’s live catalogue.
 
-### Python
-- Python Fundamentals
-- Data Analysis with Python — Currently Developing
+[Open the project](https://github.com/shanmukhkoyya/netflix-content-analysis)
 
-### Tools
-- Power BI Desktop
-- MySQL Workbench
-- Git
-- GitHub
+### 3. Data Transformation & Data Modeling
+**Power Query · Power BI · Data modeling**
 
----
+This project brings sales-related tables together, documents data preparation, and explores sales targets and profitability. The repository includes the PBIX file and supporting model and analysis notes.
 
-## 📊 Featured Projects
+[Open the project](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
 
-### 🎬 Netflix Content Analysis
-**Power BI | Excel | Power Query | DAX**
+### 4. Survey Feedback Analyzer
+**Python · Jupyter Notebook · Text cleaning**
 
-End-to-end business intelligence project analyzing Netflix content, genres, ratings, countries, release trends, and key metrics.
+A smaller Python exercise that cleans feedback text and calculates simple summaries such as ratings, word counts, and keyword matches. It’s part of my practice with core Python before moving further into Pandas.
 
-[View Project →](https://github.com/shanmukhkoyya/netflix-content-analysis)
+[Open the notebook](https://github.com/shanmukhkoyya/survey-feedback-analyzer)
 
-### 🛒 E-Commerce Customer Churn Analysis
-**MySQL | SQL | Data Cleaning | Business Analysis**
+## Tools I’m working with
 
-SQL-based analysis of customer churn and customer behavior using an e-commerce dataset.
+| Area | Tools and techniques |
+|---|---|
+| SQL | MySQL, joins, grouping, subqueries, window functions, data checks |
+| Spreadsheets | Excel, PivotTables, Power Query, data preparation |
+| Business intelligence | Power BI, DAX, data models, KPIs, interactive reports |
+| Python | Core Python, NumPy, Pandas, Jupyter Notebook — actively practising |
+| Workflow | Git, GitHub, project documentation |
 
-[View Project →](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis)
+## How I approach an analysis
 
-### 👥 Employee Productivity Analysis
-**Power BI | DAX | Data Visualization**
+- **Check the data first.** Look for missing values, duplicates, inconsistent labels, and questionable records.
+- **Keep the question visible.** Choose queries, calculations, or visuals that help answer it.
+- **Write down the limits.** A pattern in a sample is not automatically proof of a cause or a wider business trend.
 
-Interactive dashboard analyzing employee productivity, work patterns, task completion, and behavioral indicators.
+That last point matters to me: I want to be able to explain how I reached a result, not just show a dashboard.
 
-[View Project →](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis)
+## Current learning
 
-### 🔄 Data Transformation & Data Modeling using Power BI
-**Power BI | Power Query | Data Modeling**
+I’m continuing to practise Python data analysis, stronger SQL, and how to turn dashboard findings into concise business recommendations. My [analytics coding challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge) is where I keep smaller exercises and project work in one place.
 
-Project demonstrating data transformation, relationships, modeling, and reporting workflows in Power BI.
+## Education and training
 
-[View Project →](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
-
-### 🧩 Data Analytics Coding Challenge
-**SQL | Excel | Power BI | Python**
-
-Ongoing hands-on analytics practice based on practical business problems, interview questions, and daily coding challenges.
-
-[View Challenge →](https://github.com/shanmukhkoyya/analytics-coding-challenge)
-
----
-
-## 💡 What I Can Work On
-
-- Data Cleaning & Preparation
-- SQL Data Analysis
-- Excel Analysis
-- Power Query Transformations
-- Power BI Dashboard Development
-- DAX Calculations
-- Data Modeling
-- KPI & Business Metrics
-- Exploratory Analysis
-- Business Insights & Reporting
-
----
-
-## 📚 Currently Developing
-
-- 🐍 Python for Data Analysis
-- 🗄️ Advanced SQL
-- 📊 Advanced Power BI & DAX
-- 🤖 AI-Assisted Data Analytics
-- 🔍 Exploratory Data Analysis
-- 📈 Business Intelligence
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech)**  
-Electrical & Electronics Engineering
-
----
-
-## 📜 Certifications & Training
-
+- **B.Tech**, Electrical & Electronics Engineering
 - AI-Driven Data Analytics — Entri App
 - Salesforce Agentforce Specialist
-- Training in SQL, Excel, Power BI and Python
 
----
+## Contact
 
-## 📫 Connect
-
-📧 **Email:** [shanmukhkoyya1234@gmail.com](mailto:shanmukhkoyya1234@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/shanmukh-koyya](https://www.linkedin.com/in/shanmukh-koyya/)  
-🐙 **GitHub:** [github.com/shanmukhkoyya](https://github.com/shanmukhkoyya)
-
----
-
-### 🚀 Open to Data Analyst / BI Analyst Opportunities
-
-I’m looking to contribute to teams where I can use **SQL, Excel, Power BI, and data analytics** to solve business problems and support data-driven decision-making.
+- [LinkedIn](https://www.linkedin.com/in/shanmukh-koyya/)
+- [GitHub repositories](https://github.com/shanmukhkoyya?tab=repositories)
+- [Email](mailto:shanmukhkoyya1234@gmail.com)
