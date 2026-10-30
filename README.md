@@ -1,10 +1,14 @@
 # Shanmukh Koyya
 
-**Aspiring Data Analyst | SQL · Excel · Power BI · Python**
+**Aspiring Data Analyst | SQL | Excel | Power BI | Python**
 
-I’m building my data analytics portfolio by working through practical problems: preparing data, writing queries, building reports, and checking whether the numbers actually support a conclusion. My strongest current project work is in **SQL, Excel/Power Query, and Power BI/DAX**. I’m developing my Python analysis skills alongside those tools.
+I am an aspiring Data Analyst with hands-on project experience in data cleaning, data transformation, exploratory data analysis, SQL querying and business intelligence reporting.
 
-I’m interested in entry-level **Data Analyst and BI Analyst** opportunities where I can keep learning, contribute carefully, and explain my work clearly.
+I work with SQL, Excel, Power Query and Power BI to transform raw data into meaningful insights and support data-driven decision-making.
+
+I am also developing my Python skills using NumPy and Pandas to strengthen my analytical capabilities.
+
+**Career Goal:** Seeking an opportunity as a Junior Data Analyst or BI Analyst where I can apply my analytical skills, solve business problems and continue growing professionally.
 
 ---
 
@@ -57,20 +61,17 @@ A dashboard exercise using 200 project records to compare work patterns, task co
 
 ---
 
-## Tools and skills
+## Tools and Technical Skills
 
-| Area | What I’m practising |
+| Category | Skills |
 |---|---|
-| **SQL / MySQL** | Joins, filtering, aggregations, subqueries, window functions, data cleaning, and validation checks |
-| **Excel** | Data preparation, formulas, PivotTables, and analysis |
-| **Power Query** | Cleaning, standardising, and shaping data before analysis |
-| **Power BI / DAX** | Data models, measures, KPIs, interactive reports, and visual communication |
-| **Python** | Core Python, NumPy, Pandas, and Jupyter Notebook — actively developing |
-| **Project workflow** | Git, GitHub, documenting methods, and keeping project files organised |
-
-I try to describe these as working skills rather than imply that I have mastered every topic. I’m still learning, and I use projects to find the gaps I need to close next.
-
----
+| **Programming & Querying** | Python, SQL, MySQL |
+| **Data Analysis** | Pandas, NumPy, Exploratory Data Analysis |
+| **Data Visualization** | Power BI, DAX, Matplotlib, Seaborn |
+| **Data Preparation** | Microsoft Excel, Power Query, Data Cleaning |
+| **Database Concepts** | Joins, Subqueries, Aggregations, Window Functions |
+| **Reporting** | KPI Development, Dashboard Design, Business Insights |
+| **Tools** | Jupyter Notebook, MySQL Workbench, Git, GitHub |
 
 ## How I approach a data problem
 
