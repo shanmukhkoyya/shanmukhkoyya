@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14243B,100:00C9D8&height=180&section=header&text=SHANMUKH%20KOYYA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20Python&descSize=15&descAlignY=58" width="100%" />
+</p>
+
 # Shanmukh Koyya
 
 **Aspiring Data Analyst | SQL | Excel | Power BI | Python**
@@ -9,6 +13,17 @@ I work with SQL, Excel, Power Query and Power BI to transform raw data into mean
 I am also developing my Python skills using NumPy and Pandas to strengthen my analytical capabilities.
 
 **Career Goal:** Seeking an opportunity as a Junior Data Analyst or BI Analyst where I can apply my analytical skills, solve business problems and continue growing professionally.
+
+## Technical Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-00A6A6?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -85,6 +100,13 @@ Developed a dashboard using 200 sample records to explore work patterns and task
 | **Database Concepts** | Joins, Subqueries, Aggregations, Window Functions |
 | **Reporting** | KPI Development, Dashboard Design, Business Insights |
 | **Tools** | Jupyter Notebook, MySQL Workbench, Git, GitHub |
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmukhkoyya&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhkoyya&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ## How I approach a data problem
 
