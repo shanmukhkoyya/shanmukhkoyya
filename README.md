@@ -12,42 +12,55 @@ I am also developing my Python skills using NumPy and Pandas to strengthen my an
 
 ---
 
-## Start here
-
-If you are reviewing my work for the first time, these are the projects I would open first.
+## Featured Projects
 
 ### 1. E-commerce Customer Churn Analysis
-**MySQL · SQL · Data cleaning · KPI analysis**
+**MySQL · SQL · Data Cleaning · KPI Analysis**
 
-I used SQL to prepare an e-commerce customer dataset and examine churn, complaints, customer behaviour, payments, returns, and refunds. The project includes data-quality checks as well as business questions, so the work is not just a collection of query examples.
+Analysed customer churn using SQL, including data cleaning, customer segmentation, complaint analysis and data-quality validation.
 
-**A result documented in the project:** 5,628 customer records remained after the documented cleaning workflow, and the calculated churn rate was 16.84%.
+**Key results from the project dataset:**
+- Cleaned 5,630 source records, retaining 5,628 records.
+- Calculated an overall churn rate of 16.84%.
+- Examined churn patterns across tenure, complaints, payments and returns.
 
-[Explore the SQL project](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis)
+[View Project](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis)
 
 ### 2. Netflix Content Analysis
 **Excel · Power Query · Power BI · DAX**
 
-This project explores a supplied Netflix content dataset by title type, genre, ratings, countries, release year, and audience-related fields. The repository includes a Power BI file, cleaned data, a data-quality report, and supporting documentation.
+Prepared and transformed a Netflix content dataset, developed a Power BI report and explored content distribution.
 
-The findings describe the project dataset; they are not claims about Netflix’s live catalogue.
+**Work completed:**
+- Cleaned and standardised data using Power Query.
+- Developed a Power BI data model and DAX measures.
+- Analysed content types, genres, ratings, countries and release years.
 
-[Explore the Power BI project](https://github.com/shanmukhkoyya/netflix-content-analysis)
+[View Project](https://github.com/shanmukhkoyya/netflix-content-analysis)
 
 ### 3. Data Transformation & Data Modeling
-**Power Query · Power BI · Data modeling**
+**Power BI · Power Query · DAX**
 
-This work focuses on preparing sales-related tables, connecting information for analysis, and exploring sales targets and profitability. The repository includes the Power BI file and notes about the data model and analysis.
+Built an analytical data model using related sales tables and explored sales performance, targets and profitability.
 
-[Explore the data modeling project](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
+**Work completed:**
+- Prepared and transformed multiple source tables.
+- Documented an eight-table analytical model.
+- Analysed sales, profit, profit margins and target achievement.
+
+[View Project](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
 
 ### 4. Employee Productivity & Work Pattern Analysis
-**Power BI · DAX · Data visualization**
+**Power BI · DAX · Data Visualization**
 
-A dashboard exercise using 200 project records to compare work patterns, task completion, missed deadlines, and a project-defined “Laziness Index.” The project documents the limits of this measure; it should not be treated as a formal assessment of real employees or as proof of cause and effect.
+Developed a dashboard using 200 sample records to explore work patterns and task completion.
 
-[Explore the dashboard project](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis)
+**Work completed:**
+- Compared work modes, departments and task completion.
+- Analysed missed deadlines and activity patterns.
+- Explored a project-defined productivity index, not a validated HR assessment.
 
+[View Project](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis)
 ---
 
 ## More of my work
