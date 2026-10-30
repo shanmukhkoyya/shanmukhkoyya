@@ -119,12 +119,29 @@ The [Analytics Coding Challenge](https://github.com/shanmukhkoyya/analytics-codi
 
 ---
 
-## Education and training
+## Certifications
 
-- **Bachelor of Technology (B.Tech)** — Electrical & Electronics Engineering
-- **AI-Driven Data Analytics** — Entri App
-- **Salesforce Agentforce Specialist**
+### Salesforce Certified Agentforce Specialist
+- **Issuing Organization:** Salesforce
+- **Issue Date:** November 14, 2025
+- **Credential ID:** 6974677
+- **Verification:** [Verify Salesforce Credential](https://sforce.co/verifycerts)
 
+## Professional Training
+
+### AI-Driven Data Analytics — Entri Elevate
+Training areas:
+- Microsoft Excel for Data Analytics
+- Power Query and Data Cleaning
+- SQL and MySQL
+- Microsoft Power BI and DAX
+- Python for Data Analytics
+- Data Visualization and Dashboard Development
+
+## Education
+
+### Bachelor of Technology (B.Tech)
+- **Field:** Electrical & Electronics Engineering
 ---
 
 ## Contact
