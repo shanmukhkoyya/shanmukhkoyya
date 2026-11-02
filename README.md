@@ -1,31 +1,57 @@
-<p align="center"><img src="assets/readme-hero.svg" alt="DATA ANALYTICS PORTFOLIO — SQL • PYTHON • POWER BI • EXCEL" width="100%"/></p>
+<p align="center"><img src="assets/readme-hero.svg" width="100%" alt="Data analytics portfolio"/></p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10243A,50:176B72,100:20B486&height=210&section=header&text=SHANMUKH%20KOYYA&fontSize=42&fontColor=ffffff&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=70"/>
-<a href="https://shanmukhkoyya.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-176B72?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/shanmukh-koyya/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+
+# SHANMUKH KOYYA
+
+### DATA ANALYTICS · BUSINESS INTELLIGENCE
+
+<a href="https://shanmukhkoyya.github.io"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-176B72?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/shanmukh-koyya/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+
 </div>
 
-## Profile at a glance
-<table><tr><td align="center"><h2>SQL</h2>Data querying</td><td align="center"><h2>PYTHON</h2>Data preparation</td><td align="center"><h2>POWER BI</h2>Reporting & DAX</td><td align="center"><h2>EXCEL</h2>Analysis & Power Query</td></tr></table>
+<table>
+<tr><td align="center" width="25%"><h2>SQL</h2><sub>Query & investigate</sub></td><td align="center" width="25%"><h2>PYTHON</h2><sub>Prepare & explore</sub></td><td align="center" width="25%"><h2>POWER BI</h2><sub>Model & communicate</sub></td><td align="center" width="25%"><h2>EXCEL</h2><sub>Transform & report</sub></td></tr>
+</table>
 
-## Featured work
-| Case study | Tools | Open |
-|---|---|---|
-| Customer churn investigation | MySQL · SQL | [Repository](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis) |
-| Streaming catalogue | Excel · Power Query · Power BI | [Repository](https://github.com/shanmukhkoyya/netflix-content-analysis) |
-| Sales data model | Power Query · Power BI · DAX | [Repository](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI) |
-| Work-pattern exploration | Power BI · DAX | [Repository](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis) |
+## Selected case files
 
-## My toolkit
-<p align="center"><img src="https://skillicons.dev/icons?i=python,mysql,git,github"/><br/><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-00A6A6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/> <img src="https://img.shields.io/badge/DAX-4479A1?style=for-the-badge"/></p>
+| CASE | BUSINESS QUESTION | TOOLKIT | REPOSITORY |
+|---|---|---|---|
+| **01 · Customer churn** | Which customer patterns accompany churn? | MySQL · SQL | [Open case ↗](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis) |
+| **02 · Streaming catalogue** | How is the supplied catalogue distributed? | Excel · Power Query · Power BI | [Open case ↗](https://github.com/shanmukhkoyya/netflix-content-analysis) |
+| **03 · Sales model** | How can multiple sources become one reporting model? | Power Query · DAX | [Open case ↗](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI) |
+| **04 · Work patterns** | What patterns appear in sample activity records? | Power BI · DAX | [Open case ↗](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis) |
 
-## Other repositories
-[NumPy & Pandas](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas) · [Survey feedback](https://github.com/shanmukhkoyya/survey-feedback-analyzer) · [MySQL practice](https://github.com/shanmukhkoyya/mysql-assignment-2-querying-data) · [Analytics challenges](https://github.com/shanmukhkoyya/analytics-coding-challenge)
+## How I work
 
-## Working method
-`QUESTION → INSPECT → CLEAN → MODEL → ANALYSE → COMMUNICATE`
+<p align="center">
 
-Training: AI-Driven Data Analytics — Entri Software Pvt. Ltd. · Salesforce Certified Agentforce Specialist (Nov 14, 2025) · B.Tech, Electrical and Electronics Engineering.
+<strong>QUESTION</strong>　➜　<strong>INSPECT</strong>　➜　<strong>CLEAN</strong>　➜　<strong>MODEL</strong>　➜　<strong>ANALYSE</strong>　➜　<strong>EXPLAIN</strong>
 
-<sub>Project results refer to supplied learning datasets, not live company benchmarks. Findings are descriptive and do not establish causation.</sub>
+</p>
+
+<details>
+<summary><strong>More projects & practice</strong></summary>
+
+- [NumPy and Pandas lab](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas)
+- [Survey feedback analyzer](https://github.com/shanmukhkoyya/survey-feedback-analyzer)
+- [Analytics coding challenges](https://github.com/shanmukhkoyya/analytics-coding-challenge)
+- [MySQL query practice](https://github.com/shanmukhkoyya/mysql-assignment-2-querying-data)
+
+</details>
+
+## Tools I use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Python, MySQL, Git and GitHub"/><br/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-00A6A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi"/>
+<img src="https://img.shields.io/badge/DAX-4479A1?style=flat-square"/>
+</p>
+
+**Learning & credentials:** AI-Driven Data Analytics — Entri Software Pvt. Ltd. · Salesforce Certified Agentforce Specialist (Nov 14, 2025) · B.Tech, Electrical and Electronics Engineering.
+
+<sub>Project findings are based on supplied learning datasets. Descriptive patterns do not establish causation or represent live company benchmarks.</sub>
