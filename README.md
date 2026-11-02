@@ -1,134 +1,100 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14243B,100:00C9D8&height=180&section=header&text=SHANMUKH%20KOYYA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20SQL%20%7C%20EXCEL%20%7C%20POWER%20BI%20%7C%20PYTHON&descSize=15&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B35,45:215A78,100:16B8A6&height=210&section=header&text=SHANMUKH%20KOYYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descSize=16&descAlignY=57" width="100%" />
 </p>
 
-# Shanmukh Koyya
+<p align="center">
+  <strong>Aspiring Data Analyst & BI Analyst</strong><br/>
+  Turning raw datasets into clear, checkable analysis.
+</p>
 
-**Aspiring Data Analyst | SQL · Excel · Power Query · Power BI · Python**
-
-I build practical data analytics projects focused on preparing data, checking data quality, analysing business questions, and communicating findings clearly. My work includes SQL analysis, Excel and Power Query preparation, Power BI reporting exercises, and Python practice with NumPy and Pandas.
-
-**Career direction:** Entry-level Data Analyst and BI Analyst opportunities.
-
-🌐 **[Portfolio website](https://shanmukhkoyya.github.io)** · 💼 **[LinkedIn](https://www.linkedin.com/in/shanmukh-koyya/)** · 📂 **[All repositories](https://github.com/shanmukhkoyya?tab=repositories)**
+<p align="center">
+  <a href="https://shanmukhkoyya.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shanmukh-koyya/">LinkedIn</a> ·
+  <a href="mailto:shanmukhkoyya1234@gmail.com">Email</a> ·
+  <a href="https://github.com/shanmukhkoyya?tab=repositories">All repositories</a>
+</p>
 
 ---
 
-## Technical toolkit
+## Toolkit
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-00A6A6?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Python, MySQL, Git and GitHub"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-00A6A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-| Area | Current practice |
+## Project showcase
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Customer churn</h3>
+      <p><b>MySQL / SQL</b></p>
+      <p>Customer retention analysis, cleaning decisions, segmentation and quality checks.</p>
+      <p><b>16.84%</b> documented churn rate in the cleaned project dataset.</p>
+      <a href="https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis">Explore SQL case study →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Netflix catalogue</h3>
+      <p><b>Excel / Power Query / Power BI / DAX</b></p>
+      <p>Catalogue preparation and descriptive exploration of content, genres, ratings, countries and release years.</p>
+      <a href="https://github.com/shanmukhkoyya/netflix-content-analysis">Explore BI case study →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Sales data model</h3>
+      <p><b>Power Query / Power BI / DAX</b></p>
+      <p>Multi-file transformation, an eight-table analytical model and sales/profit/target analysis.</p>
+      <a href="https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI">Explore model project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Employee work patterns</h3>
+      <p><b>Power BI / DAX</b></p>
+      <p>Exploratory reporting over 200 sample activity records. The custom index is a learning metric, not a validated HR measure.</p>
+      <a href="https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis">Explore dashboard gallery →</a>
+    </td>
+  </tr>
+</table>
+
+## More projects, grouped by skill
+
+| Focus | Projects |
 |---|---|
-| SQL and databases | Joins, filtering, grouping, subqueries, window-function exercises, and data validation |
-| Excel and data preparation | Cleaning, formulas, Power Query transformations, and PivotTable analysis |
-| Business intelligence | Power BI data models, DAX practice, KPI analysis, and report layouts |
-| Python analysis | Core Python, NumPy arrays, Pandas DataFrames, filtering, grouping, and basic statistics |
-| Visualization | Power BI, Matplotlib, and Seaborn practice |
-| Project workflow | Jupyter Notebook, MySQL Workbench, Git, GitHub, and project documentation |
+| **SQL & databases** | [MySQL DDL and Constraints](https://github.com/shanmukhkoyya/mysql-ddl-commands-constraints) · [MySQL Query Assignment](https://github.com/shanmukhkoyya/mysql-assignment-2-querying-data) · [Analytics Coding Challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge) |
+| **Python analytics** | [NumPy & Pandas Lab](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas) · [Survey Feedback Analyzer](https://github.com/shanmukhkoyya/survey-feedback-analyzer) |
+| **Power BI** | [DAX & Visualization Assignment](https://github.com/shanmukhkoyya/PowerBI---DAX-Data-Visualization) |
+| **Python foundations** | [Assignment 01](https://github.com/shanmukhkoyya/Python_Assignment_1) · [Assignment 02](https://github.com/shanmukhkoyya/python-assignment-2-data-structures) · [Assignment 03](https://github.com/shanmukhkoyya/python-assignment-3-loops-functions) |
+| **CRM documentation** | [Gas Filling Station CRM project dossier](https://github.com/shanmukhkoyya/application-to-make-the-gas-filling-station-easy-using-crm-developer-) |
 
----
+## My analysis workflow
 
-## Featured projects
+<p align="center">
+  <b>QUESTION</b> &nbsp;→&nbsp; <b>INSPECT</b> &nbsp;→&nbsp; <b>CLEAN</b> &nbsp;→&nbsp; <b>ANALYSE</b> &nbsp;→&nbsp; <b>VALIDATE</b> &nbsp;→&nbsp; <b>COMMUNICATE</b>
+</p>
 
-### 1. E-commerce Customer Churn Analysis
-**MySQL · SQL · Data cleaning · Customer analytics**
+I document assumptions, check totals and group sizes where possible, and separate descriptive patterns from causal claims. Project results refer to the supplied datasets—not live company or industry benchmarks.
 
-Analysed a supplied customer dataset using SQL. The project covers cleaning, missing-value handling, customer segmentation, complaint analysis, returns, and data-quality checks.
+## Training & education
 
-- 5,630 source records; 5,628 retained after the documented outlier exclusions.
-- Calculated a 16.84% churn rate in the cleaned project dataset.
-- Documented assumptions used in cleaning and analysis.
-
-[View repository](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis)
-
-### 2. Netflix Content Analysis
-**Excel · Power Query · Power BI · DAX**
-
-Prepared a Netflix catalogue dataset and explored content type, genres, ratings, countries, and release years. The repository includes the project report and supporting documentation.
-
-[View repository](https://github.com/shanmukhkoyya/netflix-content-analysis)
-
-### 3. Data Transformation and Data Modeling
-**Power Query · Power BI · DAX**
-
-Prepared related sales datasets, documented an eight-table analytical model, and explored sales, profit, profit margin, and target achievement. The repository distinguishes its static dashboard preview from a genuine Power BI screenshot.
-
-[View repository](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
-
-### 4. Employee Productivity and Work Patterns
-**Power BI · DAX · Exploratory analysis**
-
-Explored 200 sample activity records across work modes, departments, task completion, and missed deadlines. The custom productivity index is project-defined and exploratory; it is not a validated HR assessment.
-
-[View repository](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis)
-
----
-
-## Additional projects and practice
-
-| Project | Focus |
+| | |
 |---|---|
-| [Analytics Coding Challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge) | Practical SQL, Excel, Power BI, and analytics exercises |
-| [Survey Feedback Analyzer](https://github.com/shanmukhkoyya/survey-feedback-analyzer) | Beginner Python text cleaning and descriptive summaries |
-| [NumPy and Pandas Analysis](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas) | Arrays, Series, DataFrames, filtering, grouping, and statistics |
-| [Power BI DAX and Visualization](https://github.com/shanmukhkoyya/PowerBI---DAX-Data-Visualization) | Power BI assignment focused on DAX and visual reporting |
-| [MySQL DDL and Constraints](https://github.com/shanmukhkoyya/mysql-ddl-commands-constraints) | Database creation, table design, and constraint practice |
-| [MySQL Assignment 2](https://github.com/shanmukhkoyya/mysql-assignment-2-querying-data) | SQL querying exercises |
+| **Professional training** | AI-Driven Data Analytics — **Entri Software Pvt. Ltd.** |
+| **Certification** | Salesforce Certified Agentforce Specialist · Issued November 14, 2025 · [Verify](https://sforce.co/verifycerts) |
+| **Education** | Bachelor of Technology (B.Tech), Electrical and Electronics Engineering |
 
 ---
 
-## How I approach an analysis
+<p align="center">
+  <b>Open to entry-level Data Analyst / BI Analyst opportunities, internships and constructive project feedback.</b><br/>
+  <a href="https://shanmukhkoyya.github.io">Portfolio Website</a> ·
+  <a href="https://www.linkedin.com/in/shanmukh-koyya/">Connect on LinkedIn</a>
+</p>
 
-1. **Understand the source:** inspect columns, data types, missing values, duplicates, and unusual records.
-2. **Define the question:** decide what the analysis should answer before creating calculations or visuals.
-3. **Prepare and analyse:** use an appropriate tool, document assumptions, and keep the steps reviewable.
-4. **Validate:** compare totals, inspect group sizes, and check calculations where source data allows.
-5. **Communicate carefully:** explain what the dataset supports and identify limitations; descriptive patterns do not establish causation.
-
-## Learning priorities
-
-I am continuing to develop my skills in SQL problem-solving, Excel and Power Query, Power BI data modeling and DAX, and end-to-end Python analysis. I aim to make each project more reproducible, clearly documented, and useful for answering a defined business question.
-
----
-
-## Certifications and professional training
-
-### AI-Driven Data Analytics — Entri Software Pvt. Ltd.
-
-Professional training in Microsoft Excel, Power Query, SQL and MySQL, Power BI and DAX, Python for data analytics, and data visualization.
-
-### Salesforce Certified Agentforce Specialist
-
-- Issuing organization: Salesforce
-- Issue date: November 14, 2025
-- Credential ID: 6974677
-- [Verify credential](https://sforce.co/verifycerts)
-
-## Education
-
-**Bachelor of Technology (B.Tech) — Electrical and Electronics Engineering**
-
----
-
-## Contact
-
-I welcome entry-level Data Analyst and BI Analyst opportunities, internships, and constructive feedback on my project work.
-
-- **Email:** [shanmukhkoyya1234@gmail.com](mailto:shanmukhkoyya1234@gmail.com)
-- **LinkedIn:** [linkedin.com/in/shanmukh-koyya](https://www.linkedin.com/in/shanmukh-koyya/)
-- **Portfolio:** [shanmukhkoyya.github.io](https://shanmukhkoyya.github.io)
-- **GitHub:** [github.com/shanmukhkoyya](https://github.com/shanmukhkoyya)
-
----
-
-*I present projects as practical learning and analysis work, with assumptions and evidence limits stated rather than overstating experience or results.*
+<sub>Projects are presented as practical learning and analysis work. Evidence limits and assumptions are stated rather than overstating experience or results.</sub>
