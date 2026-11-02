@@ -170,6 +170,7 @@ Training areas:
 
 I’m open to entry-level Data Analyst and BI Analyst opportunities, internships, and feedback on my projects.
 
+- **Portfolio Website:** [shanmukhkoyya.github.io](https://shanmukhkoyya.github.io)
 - **LinkedIn:** [linkedin.com/in/shanmukh-koyya](https://www.linkedin.com/in/shanmukh-koyya/)
 - **Email:** [shanmukhkoyya1234@gmail.com](mailto:shanmukhkoyya1234@gmail.com)
 - **GitHub projects:** [Browse all repositories](https://github.com/shanmukhkoyya?tab=repositories)
