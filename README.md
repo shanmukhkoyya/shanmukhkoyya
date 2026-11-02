@@ -101,20 +101,18 @@ I am continuing to develop my skills in SQL problem-solving, Excel and Power Que
 
 ---
 
-## Certification
+## Certifications and professional training
 
-**Salesforce Certified Agentforce Specialist**
+### AI-Driven Data Analytics — Entri Software Pvt. Ltd.
+
+Professional training in Microsoft Excel, Power Query, SQL and MySQL, Power BI and DAX, Python for data analytics, and data visualization.
+
+### Salesforce Certified Agentforce Specialist
 
 - Issuing organization: Salesforce
 - Issue date: November 14, 2025
 - Credential ID: 6974677
 - [Verify credential](https://sforce.co/verifycerts)
-
-## Professional training
-
-**AI-Driven Data Analytics — Entri Elevate**
-
-Training areas include Microsoft Excel, Power Query, SQL and MySQL, Power BI and DAX, Python for data analytics, and data visualization.
 
 ## Education
 
