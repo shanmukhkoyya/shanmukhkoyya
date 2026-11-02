@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/readme-hero.svg" alt="DATA ANALYTICS PORTFOLIO — SQL • PYTHON • POWER BI • EXCEL" width="100%"/></p>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10243A,50:176B72,100:20B486&height=210&section=header&text=SHANMUKH%20KOYYA&fontSize=42&fontColor=ffffff&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=70"/>
 <a href="https://shanmukhkoyya.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-176B72?style=for-the-badge"/></a>
