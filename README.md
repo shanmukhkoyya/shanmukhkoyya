@@ -1,134 +1,143 @@
 <div align="center">
-  <img src="assets/readme-hero.svg" width="100%" alt="Data analytics portfolio banner"/>
-  <br/>
+  <img src="assets/readme-hero.svg" width="100%" alt="Data analytics portfolio banner" />
   <h1>SHANMUKH KOYYA</h1>
-  <p><b>ASPIRING DATA ANALYST&nbsp; · &nbsp;BI ANALYST</b></p>
-  <p><i>From raw data to checked insights and clear business explanations.</i></p>
-  <a href="https://shanmukhkoyya.github.io"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-10243A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/shanmukh-koyya/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <h3>ASPIRING DATA ANALYST · BUSINESS INTELLIGENCE</h3>
+  <p><i>Turning raw data into checked analysis and clear explanations.</i></p>
+  <a href="https://shanmukhkoyya.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-10243A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shanmukh-koyya/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shanmukhkoyya1234@gmail.com"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h2>01 / The analyst behind the work</h2>
-      I am an aspiring Data Analyst and BI Analyst with a B.Tech background in Electrical & Electronics Engineering. I am developing practical analytics skills through guided learning, independent exercises and end-to-end portfolio projects.
+## 01 / The analyst behind the work
 
-      My approach is simple: understand the question, inspect the data, validate the result and explain what the numbers can—and cannot—tell us.
-    </td>
-    <td width="42%" valign="top">
-      <h2>02 / At a glance</h2>
-      **Focus**<br/>Data analysis · Business intelligence
+I am an aspiring Data Analyst and BI Analyst with a B.Tech background in Electrical & Electronics Engineering. I am building practical analytics skills through structured learning, independent exercises and portfolio projects.
 
-      **Core tools**<br/>SQL · Excel · Power Query · Power BI · DAX · Python
+I enjoy working through the full analysis process: understanding a question, inspecting source data, cleaning and transforming it, checking results, and communicating findings with the right context.
 
-      **Currently building**<br/>Project depth, analytical reasoning and clearer reporting
-    </td>
-  </tr>
-</table>
+### At a glance
 
-## 03 / Selected case studies
+| FOCUS | TOOLKIT | APPROACH |
+|---|---|---|
+| Data analysis & business intelligence | SQL, Excel, Power Query, Power BI, DAX, Python | Question first · Validate results · Explain limitations |
 
-<sub>A small selection of practical projects. Each repository includes its own files, methods and project-specific limitations.</sub>
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 — CUSTOMER ANALYTICS / MYSQL</sub>
-      <h3>Customer churn investigation</h3>
-      <p><b>Business question</b><br/>How do customer tenure and complaint patterns differ between active and churned records?</p>
-      <p>Cleaned and queried customer records, compared customer groups and documented descriptive findings without treating correlation as causation.</p>
-      <a href="https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis">VIEW PROJECT ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 — CONTENT ANALYTICS / POWER BI</sub>
-      <h3>Streaming catalogue analysis</h3>
-      <p><b>Business question</b><br/>How is the supplied catalogue distributed across content type, genre, rating and geography?</p>
-      <p>Prepared the source data and developed a reporting workflow for exploring catalogue composition.</p>
-      <a href="https://github.com/shanmukhkoyya/netflix-content-analysis">VIEW PROJECT ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 — DATA PREPARATION / POWER BI</sub>
-      <h3>Sales transformation & data modelling</h3>
-      <p><b>Business question</b><br/>How can transformed sales tables support consistent reporting?</p>
-      <p>Worked through data preparation, model structure and category-level sales and profit reporting.</p>
-      <a href="https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI">VIEW PROJECT ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 — WORK PATTERNS / POWER BI</sub>
-      <h3>Work patterns in sample data</h3>
-      <p><b>Business question</b><br/>What differences appear across task, department and work-mode records?</p>
-      <p>Explored a small sample dataset. The custom productivity index is exploratory and is not a validated employee-performance measure.</p>
-      <a href="https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis">VIEW PROJECT ↗</a>
-    </td>
-  </tr>
-</table>
+## 02 / Selected case studies
 
-## 04 / A finding, with its context
+*Four practical projects that demonstrate the types of questions I am learning to investigate.*
 
-<table>
-  <tr>
-    <td align="center" width="25%"><h2>5,628</h2><sub>records after cleaning</sub></td>
-    <td align="center" width="25%"><h2>16.84%</h2><sub>documented churn rate</sub></td>
-    <td align="center" width="25%"><h2>4,680</h2><sub>active records</sub></td>
-    <td align="center" width="25%"><h2>948</h2><sub>churned records</sub></td>
-  </tr>
-</table>
+### 01 — Customer churn investigation
+<sub>MYSQL · SQL · CUSTOMER ANALYTICS</sub>
 
-**Interpretation:** the churned group had lower average tenure than the active group in this learning dataset. This is a descriptive relationship; it does not establish why customers left.
+**Business question:** How do tenure and complaint patterns differ between active and churned customer records?
 
-<sub>These are project-specific figures from the supplied dataset, not live business results or industry benchmarks. Explore the [SQL analysis and documentation](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis).</sub>
+Cleaned and queried customer records, compared customer groups and documented descriptive findings. The analysis distinguishes observed patterns from possible causes.
 
-## 05 / My analysis workflow
+[**Explore the customer churn project →**](https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis)
 
-<table>
-  <tr>
-    <td align="center" width="14%"><b>01</b><br/><sub>DEFINE</sub></td>
-    <td align="center" width="14%"><b>02</b><br/><sub>INSPECT</sub></td>
-    <td align="center" width="14%"><b>03</b><br/><sub>CLEAN</sub></td>
-    <td align="center" width="14%"><b>04</b><br/><sub>MODEL</sub></td>
-    <td align="center" width="14%"><b>05</b><br/><sub>ANALYSE</sub></td>
-    <td align="center" width="14%"><b>06</b><br/><sub>VALIDATE</sub></td>
-    <td align="center" width="14%"><b>07</b><br/><sub>EXPLAIN</sub></td>
-  </tr>
-</table>
+---
 
-I aim to document assumptions, check totals and distinguish observed patterns from conclusions.
+### 02 — Streaming catalogue analysis
+<sub>EXCEL · POWER QUERY · POWER BI</sub>
 
-## 06 / Tools in my workbench
+**Business question:** How is the supplied catalogue distributed across content type, genre, rating and geography?
+
+Prepared the source data and developed a reporting workflow to explore catalogue composition.
+
+[**Explore the Netflix analysis project →**](https://github.com/shanmukhkoyya/netflix-content-analysis)
+
+---
+
+### 03 — Sales transformation & data modelling
+<sub>POWER QUERY · POWER BI · DATA MODELLING</sub>
+
+**Business question:** How can transformed sales tables support consistent reporting?
+
+Worked through data preparation, model structure and category-level sales and profit reporting.
+
+[**Explore the data transformation project →**](https://github.com/shanmukhkoyya/Data-Transformation-Data-Modeling-using-Power-BI)
+
+---
+
+### 04 — Work patterns in sample data
+<sub>POWER BI · DAX · EXPLORATORY ANALYSIS</sub>
+
+**Business question:** What differences appear across task, department and work-mode records?
+
+Explored a small sample dataset and compared groups using a custom index. This index is exploratory—not a validated employee-performance or HR measure.
+
+[**Explore the employee productivity project →**](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis)
+
+---
+
+## 03 / One finding, with context
+
+### Customer churn · project dataset
+
+| 5,628 | 16.84% | 4,680 | 948 |
+|:---:|:---:|:---:|:---:|
+| Records after cleaning | Documented churn rate | Active records | Churned records |
+
+**What the data showed:** the churned group had lower average tenure than the active group in this learning dataset.
+
+**What this does not prove:** it does not explain why customers left or establish that tenure caused churn.
+
+<sub>These are project-specific figures from the supplied dataset, not live business results or industry benchmarks. The SQL and project documentation are available in the <a href="https://github.com/shanmukhkoyya/ecommerce-customer-churn-analysis">customer churn repository</a>.</sub>
+
+---
+
+## 04 / How I approach an analysis
+
+`BUSINESS QUESTION` → `SOURCE INSPECTION` → `DATA CLEANING` → `TRANSFORMATION` → `ANALYSIS` → `VALIDATION` → `COMMUNICATION`
+
+My working principles:
+
+- Understand the business question before choosing a tool.
+- Check missing values, duplicates, data types and unusual records.
+- Keep transformations understandable and repeatable.
+- Validate totals and calculations before presenting results.
+- Explain assumptions and limitations instead of overstating conclusions.
+
+---
+
+## 05 / Tools in my workbench
 
 | AREA | TOOLS & PRACTICE |
 |---|---|
-| Querying | SQL · MySQL · filtering · joins · aggregation |
-| Spreadsheets | Excel · data cleaning · summaries |
-| Transformation | Power Query · shaping and preparation |
-| Reporting | Power BI · DAX · data visualisation |
-| Programming | Python · NumPy · Pandas · notebooks |
+| Querying | SQL, MySQL, filtering, joins and aggregation |
+| Spreadsheets | Excel, data cleaning and summaries |
+| Transformation | Power Query and data preparation |
+| Reporting | Power BI, DAX and data visualisation |
+| Programming | Python, NumPy, Pandas and Jupyter notebooks |
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power%20Query-276A9C?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
-  <img src="https://img.shields.io/badge/Power%20BI-D9A300?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/DAX-52677D?style=flat-square" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_Query-276A9C?style=flat-square" alt="Power Query" />
+  <img src="https://img.shields.io/badge/Power_BI-D9A300?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-52677D?style=flat-square" alt="DAX" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</div>
 
-## 07 / More practice & learning
+---
 
-- [Python data analysis — NumPy and Pandas](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas)
-- [Survey feedback analyzer](https://github.com/shanmukhkoyya/survey-feedback-analyzer)
-- [Analytics coding challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge)
-- [MySQL querying practice](https://github.com/shanmukhkoyya/mysql-assignment-2-querying-data)
-- [Power BI — DAX and visualisation](https://github.com/shanmukhkoyya/PowerBI---DAX-Data-Visualization)
+## 06 / More projects & practice
 
-## 08 / Education & credentials
+| REPOSITORY | WHAT YOU'LL FIND |
+|---|---|
+| [Python — NumPy & Pandas](https://github.com/shanmukhkoyya/Python-Data-Analysis-NumPy-Pandas) | Data inspection, cleaning, filtering and summary statistics |
+| [Survey feedback analyzer](https://github.com/shanmukhkoyya/survey-feedback-analyzer) | Text cleaning and rating summaries |
+| [Analytics coding challenge](https://github.com/shanmukhkoyya/analytics-coding-challenge) | Short analytics exercises across multiple tools |
+| [MySQL querying practice](https://github.com/shanmukhkoyya/mysql-assignment-2-querying-data) | SQL querying, filtering, joins and aggregations |
+| [Power BI — DAX & visualisation](https://github.com/shanmukhkoyya/PowerBI---DAX-Data-Visualization) | DAX measures and report visualisation |
+
+---
+
+## 07 / Education & credentials
 
 - **AI-Driven Data Analytics** — Entri Software Pvt. Ltd.
 - **Salesforce Certified Agentforce Specialist** — November 14, 2025
@@ -137,10 +146,11 @@ I aim to document assumptions, check totals and distinguish observed patterns fr
 ---
 
 <div align="center">
-  <h3>Let's talk data.</h3>
+  <h2>Let's connect</h2>
+  <p>Open to learning, feedback and entry-level opportunities in data analytics and business intelligence.</p>
   <a href="https://shanmukhkoyya.github.io">PORTFOLIO</a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/shanmukh-koyya/">LINKEDIN</a> &nbsp; · &nbsp;
   <a href="mailto:shanmukhkoyya1234@gmail.com">EMAIL</a>
   <br/><br/>
-  <sub>Learning by building. Improving by validating. Sharing the work transparently.</sub>
+  <sub>Built through practice · Improved through feedback · Presented with transparency</sub>
 </div>
