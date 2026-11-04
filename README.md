@@ -68,7 +68,7 @@ Worked through data preparation, model structure and category-level sales and pr
 
 Explored a small sample dataset and compared groups using a custom index. This index is exploratory—not a validated employee-performance or HR measure.
 
-[**Explore the employee productivity project →**](https://github.com/shanmukhkoyya/employee-laziness-productivity-analysis)
+[**Explore the employee productivity project →**](https://github.com/shanmukhkoyya/employee-work-patterns-analysis)
 
 ---
 
