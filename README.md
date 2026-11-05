@@ -26,7 +26,7 @@ I enjoy working through the full analysis process: understanding a question, ins
 
 ## 02 / Selected case studies
 
-*Four practical projects that demonstrate the types of questions I am learning to investigate.*
+*Five practical projects that demonstrate the types of questions I am learning to investigate.*
 
 ### 01 — Customer churn investigation
 <sub>MYSQL · SQL · CUSTOMER ANALYTICS</sub>
@@ -69,6 +69,21 @@ Worked through data preparation, model structure and category-level sales and pr
 Explored a small sample dataset and compared groups using a custom index. This index is exploratory—not a validated employee-performance or HR measure.
 
 [**Explore the employee productivity project →**](https://github.com/shanmukhkoyya/employee-work-patterns-analysis)
+
+---
+
+### 05 — NYC taxi data analysis & visualization
+<sub>PYTHON · PANDAS · MATPLOTLIB · SEABORN</sub>
+
+**Business question:** How do recorded taxi fares, trip distances, tips and payment patterns vary across dates and pickup boroughs in the supplied dataset?
+
+Inspected and cleaned the trip records, reviewed missing values and timestamp validity, then created 10 visualizations covering fare trends, borough comparisons, payment mix, trip-distance distribution, tips and numeric relationships.
+
+![Total taxi fares by pickup borough](https://raw.githubusercontent.com/shanmukhkoyya/Python-Data-Visualization-Assignment/main/outputs/02_total_fare_by_borough_bar_chart.png)
+
+[**Explore the Python data visualization project →**](https://github.com/shanmukhkoyya/Python-Data-Visualization-Assignment) · [Open the notebook](https://github.com/shanmukhkoyya/Python-Data-Visualization-Assignment/blob/main/notebooks/01_data_visualization_assignment.ipynb) · [View all 10 charts](https://github.com/shanmukhkoyya/Python-Data-Visualization-Assignment/tree/main/outputs)
+
+<sub>Interpretation boundary: this is descriptive exploratory analysis, not a demand forecast or causal study. Imputation choices can affect distributions and correlations.</sub>
 
 ---
 
