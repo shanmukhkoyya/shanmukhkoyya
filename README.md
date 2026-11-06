@@ -162,7 +162,7 @@ My working principles:
 
 <div align="center">
   <h2>Let's connect</h2>
-  <p>Open to learning, feedback and entry-level opportunities in data analytics and business intelligence.</p>
+  <p>Open to learning, feedback and professional opportunities in data analytics and business intelligence.</p>
   <a href="https://shanmukhkoyya.github.io">PORTFOLIO</a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/shanmukh-koyya/">LINKEDIN</a> &nbsp; · &nbsp;
   <a href="mailto:shanmukhkoyya1234@gmail.com">EMAIL</a>
